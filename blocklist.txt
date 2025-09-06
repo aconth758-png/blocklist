@@ -5,6 +5,7 @@
 ! License: MIT
 ! Source: Manual
 
+# Blokir IP game
 ||gin.freefiremobile.com^$all
 ||dl.cvs.freefiremobile^$all
 ||18.67.175.60^$all
