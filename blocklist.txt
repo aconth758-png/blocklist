@@ -38,3 +38,5 @@
 ||202.81.96.8:80^$all
 ||gin.freefiremobile.com^
 ||gin.freefiremobile.com:80/android/dataReportPv/create*
+||dl.dir.freefiremobile.com^
+||freefiremobile.com^
