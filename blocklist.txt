@@ -36,3 +36,5 @@
 ||142.251.10.102:443^$all
 ||47.242.206.246:443^$all
 ||202.81.96.8:80^$all
+||gin.freefiremobile.com^
+||gin.freefiremobile.com:80/android/dataReportPv/create*
