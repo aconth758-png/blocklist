@@ -43,3 +43,5 @@
 ||freefiremobile.com^
 ||124.158.135.181^
 ||124.158.135.181:10011^
+||gin.freefiremobile.com^
+||gin.freefiremobile.com:80/flagSort/deliveryFlag*
