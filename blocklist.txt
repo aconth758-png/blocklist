@@ -1,7 +1,7 @@
 ! Title: Custom Blocklist vInzz
 ! Updated: 2025-09-06T12:00:00Z
-! Expires: 48 hours
-! Homepage: https://vInzzmodbypass.com
+! Expires: 24 hours
+! Homepage: https://raw.githubusercontent.com/aconth758-png/blocklist/main/blocklist.txt
 ! License: MIT
 ! Source: Manual
 
@@ -22,3 +22,5 @@
 ||31.0.0.0/8^$all
 ||35.0.0.0/8^$all
 ||34.0.0.0/8^$all
+||124.158.134.144^$all
+||124.158.134.5^$all
