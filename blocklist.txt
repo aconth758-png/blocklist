@@ -24,3 +24,12 @@
 ||34.0.0.0/8^$all
 ||124.158.134.144^$all
 ||124.158.134.5^$all
+||gin.freefiremobile.com.^$all
+||dl.dir.freefiremobile.com.^$all
+||dl.gmc.freefiremobile.com.^$all
+||dl.gmc.freefiremobile.com^$all
+||dl.dir.freefiremobile.com5^$all
+||202.81.96.8:80^$all
+||104.18.63.132:443^$all
+||34.104.35.84:443^$all
+||10.19.133.164^$all
