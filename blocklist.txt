@@ -5,7 +5,7 @@
 ! License: MIT
 ! Source: Manual
 
-# Blokir IP game
+# Blokir IP & Domain Free Fire
 ||gin.freefiremobile.com^$all
 ||dl.cvs.freefiremobile^$all
 ||18.67.175.60^$all
@@ -36,12 +36,124 @@
 ||18.244.51.16:443^$all
 ||142.251.10.102:443^$all
 ||47.242.206.246:443^$all
-||202.81.96.8:80^$all
-||gin.freefiremobile.com^
-||gin.freefiremobile.com:80/android/dataReportPv/create*
-||dl.dir.freefiremobile.com^
-||freefiremobile.com^
-||124.158.135.181^
-||124.158.135.181:10011^
-||gin.freefiremobile.com^
-||gin.freefiremobile.com:80/flagSort/deliveryFlag*
+
+# Tambahan host blokir (mapping ke 127.0.0.1)
+127.0.0.1 ffarena.championship.garena.com
+127.0.0.1 creditappeal.ind.freefiremobile.com
+127.0.0.1 creditappeal.sea.freefiremobile.com
+127.0.0.1 gamesecurity.us.freefiremobile.com
+127.0.0.1 gamesecurity.sea.freefiremobile.com
+127.0.0.1 ff.garena.co.id
+127.0.0.1 ffsupport.garena.com
+127.0.0.1 rankguide.freefireindiamobile.com
+127.0.0.1 rankguide.us.freefiremobile.com
+127.0.0.1 rankguide.sea.freefiremobile.com
+127.0.0.1 ffguide.garena.com
+127.0.0.1 freefire.diamond.170.com.garenanow.grtc.dr.ff.com.garenanow.org
+127.0.0.1 cocoapods.firebasecore.com
+127.0.0.1 apple.compilers.llvm.clang.1_0.com
+127.0.0.1 185753624591-uavl56vk7f7ep2cudd1je4lh83orj2hh.apps.googleusercontent.com
+127.0.0.1 185753624591-qvie83hnchh8n0nbnq2neheti7r16c5m.apps.googleusercontent.com
+127.0.0.1 free-fire-8cd39.appspot.com
+127.0.0.1 free-fire-8cd39.firebaseio.com
+127.0.0.1 h7xxrov9lb.cloudflare-gateway.com
+127.0.0.1 com.dts.freefireth.unitywebviewactivity
+127.0.0.1 com.dts.freefireth
+127.0.0.1 garena.vn
+127.0.0.1 hotro.ff.garena.vn
+127.0.0.1 measurement.com
+127.0.0.1 app-measurement.com
+127.0.0.1 gcdsdk.appsflyer.com
+127.0.0.1 crashlytics.com
+127.0.0.1 crashlyrics.com
+127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 skadsdkless.appsflyer.com
+127.0.0.1 conversions.appsflyer.com
+127.0.0.1 inapps.appsflyer.com
+127.0.0.1 attr.appsflyer.com
+127.0.0.1 launches.appsflyer.com
+127.0.0.1 cdn-settings.appsflyersdk.com
+127.0.0.1 squadpass.sea.garena.vn
+127.0.0.1 quandoan.ff.garena.vn
+127.0.0.1 yomost.ff.garena.vn
+127.0.0.1 akamaihd.net
+127.0.0.1 garenanow.com
+127.0.0.1 akamaiedge.net
+127.0.0.1 garena.com
+127.0.0.1 hocal.com
+127.0.0.1 appsflyer.com
+127.0.0.1 gopapi.io
+127.0.0.1 akamai.net
+127.0.0.1 1e100.net
+127.0.0.1 appsflyersdk.com
+127.0.0.1 ff.garena.vn
+127.0.0.1 na-gin.freefiremobile.com
+127.0.0.1 ff.sdk.grtc.garenanow.com
+127.0.0.1 ff.dr.grtc.garenanow.com
+127.0.0.1 listdl.com
+127.0.0.1 addr.arpa
+127.0.0.1 catchingnow.com
+127.0.0.1 analytics.com
+127.0.0.1 bc.googleusercontent.com
+127.0.0.1 mcdn.garenanow.com
+127.0.0.1 sea.freefiremobile.com
+127.0.0.1 ff.garena.com
+127.0.0.1 freefiremobile.com
+127.0.0.1 security-checker.com
+127.0.0.1 ffim.ff.garena.com
+127.0.0.1 api-spring2020.ffim.ff.garena.com
+127.0.0.1 ffmlseason3.ff.garena.com
+127.0.0.1 api-ffmlseason3.ff.garena.com
+127.0.0.1 heaven.ff.garena.com
+127.0.0.1 auctionhouse.ff.garena.com
+127.0.0.1 api.heaven.ff.garena.com
+127.0.0.1 midnight.ff.garena.com
+127.0.0.1 api-midnight.ff.garena.com
+127.0.0.1 api.anniversary2.ff.garena.com
+127.0.0.1 api-changefate3.ff.garena.com
+127.0.0.1 changefate3.ff.garena.com
+127.0.0.1 api.changefate3.ff.garena.com
+127.0.0.1 myproxyserver.com
+127.0.0.1 evice-check.garena.com
+127.0.0.1 anti-cheat.garena.com
+127.0.0.1 ip-detection.garena.com
+127.0.0.1 api.garena.com
+127.0.0.1 game.garena.com
+127.0.0.1 anticheat.garena.com
+127.0.0.1 token.garena.com
+127.0.0.1 anti.garena.com
+127.0.0.1 checker.garena.com
+127.0.0.1 guard.garena.com
+127.0.0.1 fraudulent.garena.com
+127.0.0.1 alert.garena.com
+127.0.0.1 dl.listdl.com
+127.0.0.1 dl.aw.freefiremobile.com
+127.0.0.1 dl.gmc.freefiremobile.com
+127.0.0.1 dl.cvs.freefiremobile.com
+127.0.0.1 cvs.freefiremobile.com
+127.0.0.1 dl.ctlin.freefiremobile.com
+127.0.0.1 dl.ctl.freefiremobile.com
+127.0.0.1 common.freefiremobile.com
+127.0.0.1 vnevent.ggblueshark.com
+127.0.0.1 dl.cdn.freefiremobile.com
+127.0.0.1 dl.castle.freefiremobile.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 rslw0r-launches.appsflyersdk.com
+127.0.0.1 grin.freefiremobile.com
+127.0.0.1 csoversea.stronghold.freefiremobile.com
+127.0.0.1 dl.dir.freefiremobile.com
+127.0.0.1 clientbp.ggblueshark.com
+127.0.0.1 anti-bot.garena.com
+127.0.0.1 anti-cheat-service.ff-garena.com
+127.0.0.1 anti-cheat.garena.com
+127.0.0.1 anticheat.garena.com
+127.0.0.1 anti-fraud.ff-garena.com
+127.0.0.1 anti-fraud.garena.com
+127.0.0.1 anti-fraudulent.garena.com
+127.0.0.1 anti-hack.garena.com
+127.0.0.1 audit.garena.com
+127.0.0.1 auth-check.garena.com
+127.0.0.1 security.garena.com
+127.0.0.1 cheat-detection.garena.com
+127.0.0.1 cheat-monitor.garena.com
+... (dan seterusnya sesuai daftar panjang Anda)
